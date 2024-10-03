@@ -1,0 +1,7 @@
+   Amazon UI Automation
+
+
+Clone the repository to your local machine.
+Open the project in your IDE (e.g., IntelliJ ).
+Navigate to the config.properties file under src/main/resources and configure the following properties:
+Navigate to the src/test/java/com/amazon/tests folder and open the testng.xml file.
